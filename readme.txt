@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software.
+Git is free software distributed under th GPL.
 
 #Before you excute git commit command,
 #You should excute command following,
